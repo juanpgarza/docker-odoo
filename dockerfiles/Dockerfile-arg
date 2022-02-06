@@ -1,0 +1,2 @@
+FROM img_odoo15-base
+LABEL Creator: "juanpgarza"
